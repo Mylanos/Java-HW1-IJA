@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d714249-8551-4609-918e-16a5c5e5c0ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZGYLMceL7vi2i89AN0x3qnODHa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestHomework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vut.fit.ija.homework1.TestHomework1" />
+      <module name="Ija2019-ukol1-2" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vut.fit.ija.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestHomework1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d714249-8551-4609-918e-16a5c5e5c0ff" name="Default Changelist" comment="" />
+      <created>1584466841375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584466841375</updated>
+      <workItem from="1584466846200" duration="1138000" />
+      <workItem from="1585242284313" duration="116000" />
+      <workItem from="1585669345284" duration="631000" />
+      <workItem from="1585673210904" duration="2349000" />
+      <workItem from="1585848236752" duration="2472000" />
+      <workItem from="1585854091578" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="-875" key="#Project_Structure" timestamp="1585848311107">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="342" y="-875" key="#Project_Structure/0.0.1440.900/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585848311107" />
+    <state x="206" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585848732174">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="206" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585848732174" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1585854113268">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585854113268" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1440.877/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585848737204" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1585854113266">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585854113266" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1440.877/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585848737198" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1585854113265">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585854113265" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1440.877/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585848737197" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1585854113267">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585854113267" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1440.877/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585848737202" />
+    <state x="392" y="-828" key="NewModule_or_Project.wizard" timestamp="1585669392601">
+      <screen x="-218" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="392" y="-828" key="NewModule_or_Project.wizard/0.23.1440.832/-218.-1057.1920.1057@-218.-1057.1920.1057" timestamp="1585669392601" />
+    <state x="230" y="-959" key="SettingsEditor" timestamp="1585848643029">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="230" y="-959" key="SettingsEditor/0.23.1440.877/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585848643029" />
+    <state x="311" y="-744" key="com.intellij.ide.util.TipDialog" timestamp="1585854097216">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="311" y="-744" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585854097216" />
+    <state x="397" y="280" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585242309292" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584466864159" />
+    <state x="171" y="-918" key="new project wizard" timestamp="1585853833680">
+      <screen x="-218" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="171" y="-918" key="new project wizard/0.0.1440.900/-218.-1080.1920.1080@-218.-1080.1920.1080" timestamp="1585853833680" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ija2019_ukol1$TestHomework1.ic" NAME="TestHomework1 Coverage Results" MODIFIED="1585848678510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>vut.fit.ija.homework1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
